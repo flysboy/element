@@ -1,9 +1,9 @@
 # 高仿饿了么app
-运用技术栈
+# 运用技术栈
 vue2.5.2 + vue-router3.0.1 + vue-cli + vue-resource + flex布局 + sticky-footer布局 + es6 + eslint + webpack3.10.0 + stylus
 以及移动端border-1px的实现
 
-#实现功能
+# 实现功能
 •    Goods、Ratings、Seller组件视图均可上下滚动
 •    点击商品能够查看商品详情
 •    模拟商家信息，loaclStorage缓存商家信息（id、name）
@@ -11,7 +11,7 @@ vue2.5.2 + vue-router3.0.1 + vue-cli + vue-resource + flex布局 + sticky-footer
 •    可以筛选查看评论嘻嘻
 •    商家实景图片可以左右滑动 
 
-#项目运行
+# 项目运行
 
 克隆项目到本地
 git clone https://git@github.com:flysboy/sell.app.git
