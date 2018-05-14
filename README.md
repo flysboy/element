@@ -23,8 +23,12 @@ vue2.5.2 + vue-router3.0.1 + vue-cli + vue-resource + flex布局 + sticky-footer
 安装依赖
 npm install
 
-本地开发，开启服务器，浏览器访问http://localhost:8080
+本地开发，开启服务器，
 npm run dev
+浏览器访问
+http://localhost:8080
+
+
 
 构建生产
 npm run build
@@ -32,7 +36,8 @@ npm run build
 运行打包文件
 node prod.server.js 
 
-会看到 Listening at http://localhost:9000 在浏览器中打开即可
+会看到 Listening at http://localhost:9000 
+打开该网址即可
 
 ## Build Setup
 
