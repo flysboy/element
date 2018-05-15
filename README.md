@@ -3,6 +3,8 @@
 vue2.5.2 + vue-router3.0.1 + vue-cli + vue-resource + flex布局 + sticky-footer布局 + es6 + eslint + webpack3.10.0 + stylus
 以及移动端border-1px的实现
 
+# 实现效果
+
 
 # 项目运行
 
