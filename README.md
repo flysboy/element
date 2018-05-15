@@ -4,7 +4,7 @@ vue2.5.2 + vue-router3.0.1 + vue-cli + vue-resource + flex布局 + sticky-footer
 以及移动端border-1px的实现
 
 # 实现效果
-![image](element/introduce/introduce.gif)
+![image](https://github.com/flysboy/element/introduce/introduce.gif)
 
 # 项目运行
 
