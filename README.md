@@ -3,18 +3,6 @@
 vue2.5.2 + vue-router3.0.1 + vue-cli + vue-resource + flex布局 + sticky-footer布局 + es6 + eslint + webpack3.10.0 + stylus
 以及移动端border-1px的实现
 
-# 实现功能
-•    Goods、Ratings、Seller组件视图均可上下滚动
-
-•    点击商品能够查看商品详情
-
-•    模拟商家信息，loaclStorage缓存商家信息（id、name）
-
-•    实现购物车组件，可以添加删除商品，并产生动画效果，点击购物车图标，展示选择的商品列表
-
-•    可以筛选查看评论
-
-•    商家实景图片可以左右滑动 
 
 # 项目运行
 
