@@ -5,6 +5,13 @@ vue2.5.2 + vue-router3.0.1 + vue-cli + vue-resource + flex布局 + sticky-footer
 
 # 实现效果
 ![image](https://github.com/flysboy/element/blob/master/introduce/introduce.gif)
+![image](https://github.com/flysboy/element/blob/master/introduce/introduce1.gif)
+![image](https://github.com/flysboy/element/blob/master/introduce/introduce2.gif)
+![image](https://github.com/flysboy/element/blob/master/introduce/introduce3.gif)
+![image](https://github.com/flysboy/element/blob/master/introduce/introduce4.gif)
+![image](https://github.com/flysboy/element/blob/master/introduce/introduce5.gif)
+![image](https://github.com/flysboy/element/blob/master/introduce/introduce6.gif)
+![image](https://github.com/flysboy/element/blob/master/introduce/introduce7.gif)
 
 # 项目运行
 
